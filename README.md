@@ -1,7 +1,7 @@
 # DeepLearning_hw1
 Multi-classes Classifier(VGG19)
 
-## 1. Download the pth file from here:
+## 1. Download 1090611.pth file from here:
 #### https://huggingface.co/Dyson3801/hw1_10TasksClassifier/tree/main
 ## 2. Open Test.py
 ## 3. Fill in the directories
