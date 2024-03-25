@@ -1,8 +1,10 @@
 # DeepLearning_hw1
 Multi-classes Classifier(VGG19)
 
-## 1. Open Test.py
-## 2. Fill in the directories
+## 1. Download the pth file from here:
+#### https://huggingface.co/Dyson3801/hw1_10TasksClassifier/tree/main
+## 2. Open Test.py
+## 3. Fill in the directories
 
 
 #### The directory to DLCV_hw1
@@ -14,7 +16,7 @@ sample_Path = "sample_test\\"
 #### The relative directory to the location for saving the csv file
 csv_Path = "hw1.csv"
 
-## 3. After running the task, csv file will appear in the directory filled in the previous step
+## 4. After running the task, csv file will appear in the directory filled in the previous step
 
 
 
